@@ -1,1 +1,3 @@
-Could not get BatchedBridge, make sure your bundle is packaged correctly
+# SQLite Practice of ReactNative
+
+Trying the SQLite database connecting and query for the future use.
